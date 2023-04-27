@@ -30,7 +30,7 @@ function App() {
             chainId: "0x1",
             rpcTarget: "https://rpc.ankr.com/eth", // This is the public RPC we have added, please pass on your own endpoint while creating an app
           },
-          web3AuthNetwork: "cyan",
+          web3AuthNetwork: "mainnet",
         });
 
         // plugins and adapters are optional and can be added as per your requirement
