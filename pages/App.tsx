@@ -262,7 +262,7 @@ function App() {
     uiConsole(privateKey);
   };
 
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  
   function uiConsole(...args: any[]): void {
     const el = document.querySelector("#console>p");
     if (el) {
