@@ -1,3 +1,4 @@
+  function web3Auth() {
   {/* <div className="flex-container">
         <div>
           <button onClick={getUserInfo} className="card">
@@ -229,3 +230,5 @@
     //      </main>
     //    </div>
     //  </>
+  }
+  export default web3Auth
