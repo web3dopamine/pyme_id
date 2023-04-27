@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/no-use-before-define */
+
 /* eslint-disable no-console */
 /* eslint-disable @typescript-eslint/no-shadow */
 import { CHAIN_NAMESPACES, SafeEventEmitterProvider } from "@web3auth/base";
