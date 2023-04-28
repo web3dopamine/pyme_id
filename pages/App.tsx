@@ -11,6 +11,7 @@ import { TorusWalletConnectorPlugin } from "@web3auth/torus-wallet-connector-plu
 import { WalletConnectV1Adapter } from "@web3auth/wallet-connect-v1-adapter";
 import { useEffect, useState } from "react";
 import RPC from "./api/web3RPC"; // for using web3.js
+import Dashboard from "./dashboard";
 
 //BP9Jit8drULUfKkr0UVAhHw_O7_hhUqcEcQYlODkjJDgwTrxdOOoz6nIhEc4LktPGHS2gy3ql3gPZdTJKyoZSY4
 const clientId = "BP9Jit8drULUfKkr0UVAhHw_O7_hhUqcEcQYlODkjJDgwTrxdOOoz6nIhEc4LktPGHS2gy3ql3gPZdTJKyoZSY4"; // get from https://dashboard.web3auth.io
