@@ -271,6 +271,7 @@ function App() {
 
   const loggedInView = (
    <>
+   <h1>Success!</h1>
    </>
   );
     
